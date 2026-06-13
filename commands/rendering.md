@@ -10,10 +10,10 @@ description: >-
 
 ### <img src="../.gitbook/assets/FILE_PANEL_RENDERING.png" alt="" data-size="line">Render and Animation
 
-With this command, you can open the [Render and Animation toolbar](broken-reference).
+With this command, you can open the [Render and Animation toolbar](/broken/pages/8NhVlWRoBpkdCMmkj0zu).
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/8NhVlWRoBpkdCMmkj0zu" %}
+[Broken link](/broken/pages/8NhVlWRoBpkdCMmkj0zu)
 {% endcontent-ref %}
 
 ### <img src="../.gitbook/assets/RENDER_BATCH_RENDER.png" alt="" data-size="line">Batch Rendering

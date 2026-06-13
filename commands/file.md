@@ -26,7 +26,7 @@ This command is especially useful for keeping a consistent Layer organization an
 
 ### <img src="../.gitbook/assets/FILE_PRINT_3D.png" alt="" data-size="line">Print 3D
 
-Running this command will convert your file into STL format, and open it in the 3D slicer software you have set on the 3D Printing Application section of the **Artisan** menu on [Rhino Options](broken-reference).
+Running this command will convert your file into STL format, and open it in the 3D slicer software you have set on the 3D Printing Application section of the **Artisan** menu on [Rhino Options](/broken/pages/OEQ5b4QwfjboDWA2sb0G).
 
 ### <img src="../.gitbook/assets/FILE_SETTINGS.png" alt="" data-size="line">Settings
 

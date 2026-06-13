@@ -186,7 +186,7 @@ To create the Texture 3D, click on the Refresh button. Once the preview is being
 When you confirm your changes, the Texture 3D will be listed on the Outliner toolbar.
 
 {% hint style="info" %}
-You can add more textures by placing them on your [User Folder](broken-reference) > Textures3D
+You can add more textures by placing them on your [User Folder](/broken/pages/lzuMtO84Q1UrVmoXKFlp#user-folder) > Textures3D
 
 Learn more about this command in [Academy](https://academy.2shapes.com/courses/2shapes-for-rhino-level-1/lesson/texture-3d-2/)
 {% endhint %}
